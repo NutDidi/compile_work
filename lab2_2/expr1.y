@@ -1,84 +1,73 @@
 %{
 /****************************************************************************
-expr.y
+expr1.y
 ParserWizard generated YACC file.
 
-Date: 2016年10月18日
 ****************************************************************************/
-#include <iostream>
-#include <cctype>
-using namespace std;
-%}
-
-
-%include {
+#include <stdio.h>
+#include <stdlib.h>
 #ifndef YYSTYPE
 #define YYSTYPE double
 #endif
-}
+int yylex();
+extern int yyparse();
+FILE* yyin;
+void yyerror( const char* s);
+%}
 
-
-// parser name
-%name expr
-
-// class definition
-{
-	// place any extra class members here
-	virtual int yygettoken();
-}
-// constructor
-{
-	// place any extra initialisation code here
-}
-
-// destructor
-{
-	// place any extra cleanup code here
-}
-
-// place any declarations here
 //%token NUMBER
 %left '+' '-'
 %left '*' '/'
 %right UMINUS
-lines	:	lines expr '\n'	{ cout << $2 << endl; }
-	|	lines '\n'
-	|
-	;
 
-expr	:	expr '+' expr	{ $$ = $1 + $3; }
-	|	expr '-' expr	{ $$ = $1 - $3; }
-	|	expr '*' expr	{ $$ = $1 * $3; }
-	|	expr '/' expr	{ $$ = $1 / $3; }
-	|	'(' expr ')'	{ $$ = $2; }
-	|	'-' expr %prec UMINUS	{ $$ = -$2; }
-	|	NUMBER
-	;
-NUMBER	:	'0'				{ $$ = 0.0; }
-	|	'1'				{ $$ = 1.0; }
-	|	'2'				{ $$ = 2.0; }
-	|	'3'				{ $$ = 3.0; }
-	|	'4'				{ $$ = 4.0; }
-	|	'5'				{ $$ = 5.0; }
-	|	'6'				{ $$ = 6.0; }
-	|	'7'				{ $$ = 7.0; }
-	|	'8'				{ $$ = 8.0; }
-	|	'9'				{ $$ = 9.0; }
-	;
+%%
 
-int YYPARSERNAME::yygettoken()
+lines	        :	lines expr '\n'	{ printf("%g\n", $2); }
+		|	lines '\n'
+		|
+		;
+
+expr	        :	expr '+' expr	{ $$ = $1 + $3; }
+		|	expr '-' expr	{ $$ = $1 - $3; }
+		|	expr '*' expr	{ $$ = $1 * $3; }
+		|	expr '/' expr	{ $$ = $1 / $3; }
+		|	'(' expr ')'	{ $$ = $2; }
+		|	'-' expr %prec UMINUS	{ $$ = -$2; }
+		|	NUMBER
+		;
+NUMBER	        :	'0'				{ $$ = 0.0; }
+		|	'1'				{ $$ = 1.0; }
+		|	'2'				{ $$ = 2.0; }
+		|	'3'				{ $$ = 3.0; }
+		|	'4'				{ $$ = 4.0; }
+		|	'5'				{ $$ = 5.0; }
+		|	'6'				{ $$ = 6.0; }
+		|	'7'				{ $$ = 7.0; }
+		|	'8'				{ $$ = 8.0; }
+		|	'9'				{ $$ = 9.0; }
+		;
+		
+		
+%%
+
+//program section
+
+int yylex()
 {
-	// place your token retrieving code here
-	return getchar();
+        //place your token retrieving code here
+        return getchar();
 }
 
 int main(void)
 {
-	int n = 1;
-	expr parser;
-	if (parser.yycreate()) {
-		n = parser.yyparse();
-	}
-	return n;
+        yyin = stdin;
+        do {
+                 yyparse();
+           }while(!feof(yyin));  
+	return 0;
 }
 
+void yyerror(const char* s){
+       fprintf(stderr, "Parse error: %s\n", s);
+       exit(1);
+}    

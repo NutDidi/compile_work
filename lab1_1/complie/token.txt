@@ -1,0 +1,1387 @@
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:1>
+long 'long'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:9 <Spelling=<built-in>:92:23>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:9 <Spelling=<built-in>:92:28>>
+int 'int'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:9 <Spelling=<built-in>:92:37>>
+identifier 'size_t'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:23>
+semi ';'		Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:29>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:14:1>
+identifier '__builtin_va_list'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:14:9>
+identifier 'va_list'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:14:27>
+semi ';'		Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:14:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:32:1>
+identifier '__builtin_va_list'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:32:9>
+identifier '__gnuc_va_list'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:32:27>
+semi ';'		Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:32:41>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:9>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:18>
+identifier '__u_char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:23>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:31>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:9>
+short 'short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:24>
+identifier '__u_short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:37>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:18>
+identifier '__u_int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:22>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:29>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:23>
+identifier '__u_long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:35>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:1>
+signed 'signed'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:9>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:16>
+identifier '__int8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:21>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:29>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:9>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:18>
+identifier '__uint8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:23>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:1>
+signed 'signed'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:9>
+short 'short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:16>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:22>
+identifier '__int16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:35>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:9>
+short 'short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:24>
+identifier '__uint16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:1>
+signed 'signed'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:16>
+identifier '__int32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:29>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:18>
+identifier '__uint32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:22>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:1>
+signed 'signed'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:16>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:21>
+identifier '__int64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:23>
+identifier '__uint64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:37>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:52:1>
+identifier '__int8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:52:9>
+identifier '__int_least8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:52:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:52:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:53:1>
+identifier '__uint8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:53:9>
+identifier '__uint_least8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:53:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:53:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:54:1>
+identifier '__int16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:54:9>
+identifier '__int_least16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:54:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:54:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:55:1>
+identifier '__uint16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:55:9>
+identifier '__uint_least16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:55:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:55:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:56:1>
+identifier '__int32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:56:9>
+identifier '__int_least32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:56:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:56:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:57:1>
+identifier '__uint32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:57:9>
+identifier '__uint_least32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:57:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:57:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:58:1>
+identifier '__int64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:58:9>
+identifier '__int_least64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:58:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:58:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:59:1>
+identifier '__uint64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:59:9>
+identifier '__uint_least64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:59:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:59:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:1>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:14>
+identifier '__quad_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:26>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:23>
+identifier '__u_quad_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:37>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:1>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:14>
+identifier '__intmax_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:28>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:23>
+identifier '__uintmax_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__dev_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__uid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__gid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__ino_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__ino64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__mode_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__nlink_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__off_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:29>>
+identifier '__off64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:154:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:154:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:111:21>>
+identifier '__pid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:154:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:154:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:24>>
+l_brace '{'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:31>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:33>>
+identifier '__val'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:37>>
+l_square '['		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:42>>
+numeric_constant '2'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:43>>
+r_square ']'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:44>>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:45>>
+r_brace '}'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:47>>
+identifier '__fsid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__clock_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__rlim_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__rlim64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__id_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:24>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:30>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__time_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__useconds_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:30>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:42>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__suseconds_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:31>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:44>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:29>>
+identifier '__suseconds64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:33>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:48>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:165:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:165:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:111:21>>
+identifier '__daddr_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:165:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:165:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:166:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:166:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:111:21>>
+identifier '__key_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:166:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:166:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:169:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:169:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:111:21>>
+identifier '__clockid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:169:29>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:169:40>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+void 'void'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:71:25>>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:71:30>>
+identifier '__timer_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__blksize_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:29>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:40>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__blkcnt_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:29>>
+identifier '__blkcnt64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:30>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:42>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__fsblkcnt_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:30>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:42>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__fsblkcnt64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:32>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:46>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__fsfilcnt_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:30>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:42>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__fsfilcnt64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:32>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:46>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__fsword_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:130:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:130:29>>
+identifier '__ssize_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__syscall_slong_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:33>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:50>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__syscall_ulong_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:33>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:50>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:203:1>
+identifier '__off64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:203:9>
+identifier '__loff_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:203:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:203:27>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:1>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:9>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:14>
+identifier '__caddr_t'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:24>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:130:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:130:29>>
+identifier '__intptr_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:35>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__socklen_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:23>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:215:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:215:9>
+identifier '__sig_atomic_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:215:13>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:215:27>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:13:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:13:9>
+l_brace '{'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:14:1>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:15:3>
+identifier '__count'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:15:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:15:14>
+union 'union'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:16:3>
+l_brace '{'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:17:3>
+unsigned 'unsigned'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:5 <Spelling=<built-in>:98:23>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:5 <Spelling=<built-in>:98:32>>
+identifier '__wch'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:24>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:5>
+identifier '__wchb'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:10>
+l_square '['		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:16>
+numeric_constant '4'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:17>
+r_square ']'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:19>
+r_brace '}'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:20:3>
+identifier '__value'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:20:5>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:20:12>
+r_brace '}'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:21:1>
+identifier '__mbstate_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:21:3>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:21:14>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:10:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:10:9>
+identifier '_G_fpos_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:10:16>
+l_brace '{'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:11:1>
+identifier '__off_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:12:3>
+identifier '__pos'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:12:11>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:12:16>
+identifier '__mbstate_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:13:3>
+identifier '__state'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:13:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:13:22>
+r_brace '}'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:14:1>
+identifier '__fpos_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:14:3>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:14:11>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:10:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:10:9>
+identifier '_G_fpos64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:10:16>
+l_brace '{'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:11:1>
+identifier '__off64_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:12:3>
+identifier '__pos'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:12:13>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:12:18>
+identifier '__mbstate_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:13:3>
+identifier '__state'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:13:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:13:22>
+r_brace '}'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:14:1>
+identifier '__fpos64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:14:3>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:14:13>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:4:1>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:4:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:4:16>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:9>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:16>
+identifier '__FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:31>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:4:1>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:4:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:4:16>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:9>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:16>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:29>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:35:1>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:35:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:35:16>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:36:1>
+identifier '_IO_marker'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:36:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:36:18>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:37:1>
+identifier '_IO_codecvt'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:37:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:37:19>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:38:1>
+identifier '_IO_wide_data'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:38:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:38:21>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:43:1>
+void 'void'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:43:9>
+identifier '_IO_lock_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:43:14>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:43:24>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:49:1>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:49:8>
+l_brace '{'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:50:1>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:51:3>
+identifier '_flags'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:51:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:51:13>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:54:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:54:8>
+identifier '_IO_read_ptr'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:54:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:54:21>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:55:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:55:8>
+identifier '_IO_read_end'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:55:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:55:21>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:56:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:56:8>
+identifier '_IO_read_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:56:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:56:22>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:57:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:57:8>
+identifier '_IO_write_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:57:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:57:23>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:58:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:58:8>
+identifier '_IO_write_ptr'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:58:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:58:22>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:59:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:59:8>
+identifier '_IO_write_end'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:59:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:59:22>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:60:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:60:8>
+identifier '_IO_buf_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:60:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:60:21>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:61:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:61:8>
+identifier '_IO_buf_end'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:61:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:61:20>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:64:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:64:8>
+identifier '_IO_save_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:64:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:64:22>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:65:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:65:8>
+identifier '_IO_backup_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:65:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:65:24>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:66:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:66:8>
+identifier '_IO_save_end'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:66:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:66:21>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:3>
+identifier '_IO_marker'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:21>
+identifier '_markers'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:22>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:30>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:3>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:19>
+identifier '_chain'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:26>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:72:3>
+identifier '_fileno'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:72:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:72:14>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:73:3>
+identifier '_flags2'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:73:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:73:14>
+identifier '__off_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:74:3>
+identifier '_old_offset'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:74:11>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:74:22>
+unsigned 'unsigned'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:77:3>
+short 'short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:77:12>
+identifier '_cur_column'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:77:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:77:29>
+signed 'signed'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:78:3>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:78:10>
+identifier '_vtable_offset'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:78:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:78:29>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:3>
+identifier '_shortbuf'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:8>
+l_square '['		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:17>
+numeric_constant '1'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:18>
+r_square ']'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:20>
+identifier '_IO_lock_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:81:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:81:14>
+identifier '_lock'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:81:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:81:20>
+identifier '__off64_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:89:3>
+identifier '_offset'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:89:13>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:89:20>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:3>
+identifier '_IO_codecvt'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:22>
+identifier '_codecvt'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:23>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:31>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:3>
+identifier '_IO_wide_data'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:24>
+identifier '_wide_data'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:35>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:3>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:19>
+identifier '_freeres_list'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:33>
+void 'void'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:94:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:94:8>
+identifier '_freeres_buf'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:94:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:94:21>
+identifier 'size_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:95:3>
+identifier '__pad5'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:95:10>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:95:16>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:96:3>
+identifier '_mode'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:96:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:96:12>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:3>
+identifier '_unused2'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:8>
+l_square '['		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:16>
+numeric_constant '15'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:17>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:20>
+sizeof 'sizeof'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:22>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:29>
+int 'int'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:30>
+r_paren ')'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:33>
+minus '-'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:35>
+numeric_constant '4'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:37>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:39>
+sizeof 'sizeof'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:41>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:48>
+void 'void'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:49>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:54>
+r_paren ')'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:55>
+minus '-'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:57>
+sizeof 'sizeof'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:59>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:66>
+identifier 'size_t'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:67>
+r_paren ')'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:73>
+r_square ']'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:74>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:75>
+r_brace '}'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:99:1>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:99:2>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/stdio.h:52:1>
+identifier '__gnuc_va_list'	 [LeadingSpace]	Loc=</usr/include/stdio.h:52:9>
+identifier 'va_list'	 [LeadingSpace]	Loc=</usr/include/stdio.h:52:24>
+semi ';'		Loc=</usr/include/stdio.h:52:31>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/stdio.h:63:1>
+identifier '__off_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:63:9>
+identifier 'off_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:63:17>
+semi ';'		Loc=</usr/include/stdio.h:63:22>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/stdio.h:77:1>
+identifier '__ssize_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:77:9>
+identifier 'ssize_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:77:19>
+semi ';'		Loc=</usr/include/stdio.h:77:26>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/stdio.h:84:1>
+identifier '__fpos_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:84:9>
+identifier 'fpos_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:84:18>
+semi ';'		Loc=</usr/include/stdio.h:84:24>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:143:1>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/stdio.h:143:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:143:13>
+identifier 'stdin'		Loc=</usr/include/stdio.h:143:14>
+semi ';'		Loc=</usr/include/stdio.h:143:19>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:144:1>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/stdio.h:144:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:144:13>
+identifier 'stdout'		Loc=</usr/include/stdio.h:144:14>
+semi ';'		Loc=</usr/include/stdio.h:144:20>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:145:1>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/stdio.h:145:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:145:13>
+identifier 'stderr'		Loc=</usr/include/stdio.h:145:14>
+semi ';'		Loc=</usr/include/stdio.h:145:20>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:152:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:8>
+identifier 'remove'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:12>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:19>
+const 'const'		Loc=</usr/include/stdio.h:152:20>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:26>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:31>
+identifier '__filename'		Loc=</usr/include/stdio.h:152:32>
+r_paren ')'		Loc=</usr/include/stdio.h:152:42>
+__attribute '__attribute__'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('		Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'		Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'		Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'		Loc=</usr/include/stdio.h:152:51>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:154:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:8>
+identifier 'rename'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:12>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:19>
+const 'const'		Loc=</usr/include/stdio.h:154:20>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:26>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:31>
+identifier '__old'		Loc=</usr/include/stdio.h:154:32>
+comma ','		Loc=</usr/include/stdio.h:154:37>
+const 'const'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:39>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:45>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:50>
+identifier '__new'		Loc=</usr/include/stdio.h:154:51>
+r_paren ')'		Loc=</usr/include/stdio.h:154:56>
+__attribute '__attribute__'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('		Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'		Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'		Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'		Loc=</usr/include/stdio.h:154:65>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:158:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:8>
+identifier 'renameat'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:12>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:21>
+int 'int'		Loc=</usr/include/stdio.h:158:22>
+identifier '__oldfd'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:26>
+comma ','		Loc=</usr/include/stdio.h:158:33>
+const 'const'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:35>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:41>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:46>
+identifier '__old'		Loc=</usr/include/stdio.h:158:47>
+comma ','		Loc=</usr/include/stdio.h:158:52>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:54>
+identifier '__newfd'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:58>
+comma ','		Loc=</usr/include/stdio.h:158:65>
+const 'const'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/stdio.h:159:8>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:14>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:19>
+identifier '__new'		Loc=</usr/include/stdio.h:159:20>
+r_paren ')'		Loc=</usr/include/stdio.h:159:25>
+__attribute '__attribute__'	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('		Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'		Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'		Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'		Loc=</usr/include/stdio.h:159:34>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:178:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:178:8>
+identifier 'fclose'	 [LeadingSpace]	Loc=</usr/include/stdio.h:178:12>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:178:19>
+identifier 'FILE'		Loc=</usr/include/stdio.h:178:20>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:178:25>
+identifier '__stream'		Loc=</usr/include/stdio.h:178:26>
+r_paren ')'		Loc=</usr/include/stdio.h:178:34>
+semi ';'		Loc=</usr/include/stdio.h:178:35>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:188:1>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/stdio.h:188:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:188:13>
+identifier 'tmpfile'		Loc=</usr/include/stdio.h:188:14>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:188:22>
+void 'void'		Loc=</usr/include/stdio.h:188:23>
+r_paren ')'		Loc=</usr/include/stdio.h:188:27>
+__attribute '__attribute__'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:31>>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:45>>
+l_paren '('		Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:46>>
+identifier '__malloc__'		Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:47>>
+r_paren ')'		Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:57>>
+r_paren ')'		Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:58>>
+semi ';'	 [LeadingSpace]	Loc=</usr/include/stdio.h:189:51>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:205:1>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:205:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:205:13>
+identifier 'tmpnam'		Loc=</usr/include/stdio.h:205:14>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:205:21>
+char 'char'		Loc=</usr/include/stdio.h:205:22>
+l_square '['		Loc=</usr/include/stdio.h:205:26>
+numeric_constant '20'		Loc=</usr/include/stdio.h:205:27 <Spelling=/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:25:18>>
+r_square ']'		Loc=</usr/include/stdio.h:205:35>
+r_paren ')'		Loc=</usr/include/stdio.h:205:36>
+__attribute '__attribute__'	 [LeadingSpace]	Loc=</usr/include/stdio.h:205:38 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:1>
+long 'long'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:9 <Spelling=<built-in>:92:23>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:9 <Spelling=<built-in>:92:28>>
+int 'int'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:9 <Spelling=<built-in>:92:37>>
+identifier 'size_t'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:23>
+semi ';'		Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h:46:29>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:14:1>
+identifier '__builtin_va_list'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:14:9>
+identifier 'va_list'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:14:27>
+semi ';'		Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:14:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:32:1>
+identifier '__builtin_va_list'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:32:9>
+identifier '__gnuc_va_list'	 [LeadingSpace]	Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:32:27>
+semi ';'		Loc=</usr/lib/llvm-14/lib/clang/14.0.0/include/stdarg.h:32:41>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:9>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:18>
+identifier '__u_char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:23>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:31:31>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:9>
+short 'short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:24>
+identifier '__u_short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:32:37>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:18>
+identifier '__u_int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:22>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:33:29>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:23>
+identifier '__u_long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:34:35>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:1>
+signed 'signed'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:9>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:16>
+identifier '__int8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:21>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:37:29>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:9>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:18>
+identifier '__uint8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:23>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:38:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:1>
+signed 'signed'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:9>
+short 'short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:16>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:22>
+identifier '__int16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:39:35>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:9>
+short 'short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:24>
+identifier '__uint16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:40:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:1>
+signed 'signed'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:16>
+identifier '__int32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:41:29>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:18>
+identifier '__uint32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:22>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:42:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:1>
+signed 'signed'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:16>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:21>
+identifier '__int64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:44:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:23>
+identifier '__uint64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:45:37>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:52:1>
+identifier '__int8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:52:9>
+identifier '__int_least8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:52:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:52:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:53:1>
+identifier '__uint8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:53:9>
+identifier '__uint_least8_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:53:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:53:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:54:1>
+identifier '__int16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:54:9>
+identifier '__int_least16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:54:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:54:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:55:1>
+identifier '__uint16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:55:9>
+identifier '__uint_least16_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:55:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:55:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:56:1>
+identifier '__int32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:56:9>
+identifier '__int_least32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:56:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:56:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:57:1>
+identifier '__uint32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:57:9>
+identifier '__uint_least32_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:57:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:57:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:58:1>
+identifier '__int64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:58:9>
+identifier '__int_least64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:58:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:58:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:59:1>
+identifier '__uint64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:59:9>
+identifier '__uint_least64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:59:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:59:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:1>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:14>
+identifier '__quad_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:63:26>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:23>
+identifier '__u_quad_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:64:37>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:1>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:9>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:14>
+identifier '__intmax_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:72:28>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:1>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:9>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:18>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:23>
+identifier '__uintmax_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:73:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__dev_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:145:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__uid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:146:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__gid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:147:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__ino_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:148:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__ino64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:149:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__mode_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:150:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__nlink_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:151:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__off_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:152:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:29>>
+identifier '__off64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:153:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:154:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:154:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:111:21>>
+identifier '__pid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:154:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:154:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:24>>
+l_brace '{'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:31>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:33>>
+identifier '__val'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:37>>
+l_square '['		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:42>>
+numeric_constant '2'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:43>>
+r_square ']'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:44>>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:45>>
+r_brace '}'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:73:47>>
+identifier '__fsid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:155:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__clock_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:156:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__rlim_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:157:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__rlim64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:158:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__id_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:24>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:159:30>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__time_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:26>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:160:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__useconds_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:30>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:161:42>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__suseconds_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:31>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:162:44>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:29>>
+identifier '__suseconds64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:33>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:163:48>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:165:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:165:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:111:21>>
+identifier '__daddr_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:165:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:165:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:166:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:166:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:111:21>>
+identifier '__key_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:166:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:166:32>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:169:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:169:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:111:21>>
+identifier '__clockid_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:169:29>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:169:40>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+void 'void'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:71:25>>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/typesizes.h:71:30>>
+identifier '__timer_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:172:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__blksize_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:29>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:175:40>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__blkcnt_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:180:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:128:29>>
+identifier '__blkcnt64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:30>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:181:42>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__fsblkcnt_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:30>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:184:42>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__fsblkcnt64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:32>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:185:46>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__fsfilcnt_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:30>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:188:42>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:24>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:33>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:129:38>>
+identifier '__fsfilcnt64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:32>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:189:46>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__fsword_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:28>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:192:38>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:130:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:130:29>>
+identifier '__ssize_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:27>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:194:36>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:26>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:113:31>>
+identifier '__syscall_slong_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:33>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:197:50>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:26>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:35>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:114:40>>
+identifier '__syscall_ulong_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:33>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:199:50>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:203:1>
+identifier '__off64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:203:9>
+identifier '__loff_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:203:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:203:27>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:1>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:9>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:14>
+identifier '__caddr_t'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:204:24>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+long 'long'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:130:24>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:130:29>>
+identifier '__intptr_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:207:35>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:1 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:137:22>>
+unsigned 'unsigned'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:21>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:12 <Spelling=/usr/include/x86_64-linux-gnu/bits/types.h:112:30>>
+identifier '__socklen_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:23>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:210:34>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:215:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:215:9>
+identifier '__sig_atomic_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types.h:215:13>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types.h:215:27>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:13:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:13:9>
+l_brace '{'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:14:1>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:15:3>
+identifier '__count'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:15:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:15:14>
+union 'union'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:16:3>
+l_brace '{'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:17:3>
+unsigned 'unsigned'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:5 <Spelling=<built-in>:98:23>>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:5 <Spelling=<built-in>:98:32>>
+identifier '__wch'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:24>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:5>
+identifier '__wchb'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:10>
+l_square '['		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:16>
+numeric_constant '4'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:17>
+r_square ']'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:19>
+r_brace '}'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:20:3>
+identifier '__value'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:20:5>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:20:12>
+r_brace '}'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:21:1>
+identifier '__mbstate_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:21:3>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:21:14>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:10:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:10:9>
+identifier '_G_fpos_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:10:16>
+l_brace '{'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:11:1>
+identifier '__off_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:12:3>
+identifier '__pos'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:12:11>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:12:16>
+identifier '__mbstate_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:13:3>
+identifier '__state'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:13:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:13:22>
+r_brace '}'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:14:1>
+identifier '__fpos_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:14:3>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:14:11>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:10:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:10:9>
+identifier '_G_fpos64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:10:16>
+l_brace '{'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:11:1>
+identifier '__off64_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:12:3>
+identifier '__pos'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:12:13>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:12:18>
+identifier '__mbstate_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:13:3>
+identifier '__state'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:13:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:13:22>
+r_brace '}'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:14:1>
+identifier '__fpos64_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:14:3>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:14:13>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:4:1>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:4:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:4:16>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:9>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:16>
+identifier '__FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:31>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:4:1>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:4:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:4:16>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:1>
+struct 'struct'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:9>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:16>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:29>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:35:1>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:35:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:35:16>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:36:1>
+identifier '_IO_marker'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:36:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:36:18>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:37:1>
+identifier '_IO_codecvt'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:37:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:37:19>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:38:1>
+identifier '_IO_wide_data'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:38:8>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:38:21>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:43:1>
+void 'void'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:43:9>
+identifier '_IO_lock_t'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:43:14>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:43:24>
+struct 'struct'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:49:1>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:49:8>
+l_brace '{'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:50:1>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:51:3>
+identifier '_flags'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:51:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:51:13>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:54:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:54:8>
+identifier '_IO_read_ptr'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:54:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:54:21>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:55:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:55:8>
+identifier '_IO_read_end'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:55:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:55:21>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:56:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:56:8>
+identifier '_IO_read_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:56:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:56:22>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:57:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:57:8>
+identifier '_IO_write_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:57:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:57:23>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:58:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:58:8>
+identifier '_IO_write_ptr'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:58:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:58:22>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:59:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:59:8>
+identifier '_IO_write_end'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:59:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:59:22>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:60:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:60:8>
+identifier '_IO_buf_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:60:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:60:21>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:61:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:61:8>
+identifier '_IO_buf_end'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:61:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:61:20>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:64:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:64:8>
+identifier '_IO_save_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:64:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:64:22>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:65:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:65:8>
+identifier '_IO_backup_base'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:65:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:65:24>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:66:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:66:8>
+identifier '_IO_save_end'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:66:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:66:21>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:3>
+identifier '_IO_marker'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:21>
+identifier '_markers'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:22>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:68:30>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:3>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:19>
+identifier '_chain'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:70:26>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:72:3>
+identifier '_fileno'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:72:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:72:14>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:73:3>
+identifier '_flags2'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:73:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:73:14>
+identifier '__off_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:74:3>
+identifier '_old_offset'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:74:11>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:74:22>
+unsigned 'unsigned'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:77:3>
+short 'short'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:77:12>
+identifier '_cur_column'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:77:18>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:77:29>
+signed 'signed'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:78:3>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:78:10>
+identifier '_vtable_offset'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:78:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:78:29>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:3>
+identifier '_shortbuf'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:8>
+l_square '['		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:17>
+numeric_constant '1'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:18>
+r_square ']'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:19>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:79:20>
+identifier '_IO_lock_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:81:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:81:14>
+identifier '_lock'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:81:15>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:81:20>
+identifier '__off64_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:89:3>
+identifier '_offset'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:89:13>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:89:20>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:3>
+identifier '_IO_codecvt'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:22>
+identifier '_codecvt'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:23>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:91:31>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:3>
+identifier '_IO_wide_data'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:24>
+identifier '_wide_data'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:25>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:92:35>
+struct 'struct'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:3>
+identifier '_IO_FILE'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:10>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:19>
+identifier '_freeres_list'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:20>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:93:33>
+void 'void'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:94:3>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:94:8>
+identifier '_freeres_buf'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:94:9>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:94:21>
+identifier 'size_t'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:95:3>
+identifier '__pad5'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:95:10>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:95:16>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:96:3>
+identifier '_mode'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:96:7>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:96:12>
+char 'char'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:3>
+identifier '_unused2'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:8>
+l_square '['		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:16>
+numeric_constant '15'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:17>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:20>
+sizeof 'sizeof'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:22>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:29>
+int 'int'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:30>
+r_paren ')'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:33>
+minus '-'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:35>
+numeric_constant '4'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:37>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:39>
+sizeof 'sizeof'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:41>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:48>
+void 'void'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:49>
+star '*'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:54>
+r_paren ')'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:55>
+minus '-'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:57>
+sizeof 'sizeof'	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:59>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:66>
+identifier 'size_t'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:67>
+r_paren ')'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:73>
+r_square ']'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:74>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:98:75>
+r_brace '}'	 [StartOfLine]	Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:99:1>
+semi ';'		Loc=</usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:99:2>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/stdio.h:52:1>
+identifier '__gnuc_va_list'	 [LeadingSpace]	Loc=</usr/include/stdio.h:52:9>
+identifier 'va_list'	 [LeadingSpace]	Loc=</usr/include/stdio.h:52:24>
+semi ';'		Loc=</usr/include/stdio.h:52:31>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/stdio.h:63:1>
+identifier '__off_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:63:9>
+identifier 'off_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:63:17>
+semi ';'		Loc=</usr/include/stdio.h:63:22>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/stdio.h:77:1>
+identifier '__ssize_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:77:9>
+identifier 'ssize_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:77:19>
+semi ';'		Loc=</usr/include/stdio.h:77:26>
+typedef 'typedef'	 [StartOfLine]	Loc=</usr/include/stdio.h:84:1>
+identifier '__fpos_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:84:9>
+identifier 'fpos_t'	 [LeadingSpace]	Loc=</usr/include/stdio.h:84:18>
+semi ';'		Loc=</usr/include/stdio.h:84:24>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:143:1>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/stdio.h:143:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:143:13>
+identifier 'stdin'		Loc=</usr/include/stdio.h:143:14>
+semi ';'		Loc=</usr/include/stdio.h:143:19>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:144:1>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/stdio.h:144:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:144:13>
+identifier 'stdout'		Loc=</usr/include/stdio.h:144:14>
+semi ';'		Loc=</usr/include/stdio.h:144:20>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:145:1>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/stdio.h:145:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:145:13>
+identifier 'stderr'		Loc=</usr/include/stdio.h:145:14>
+semi ';'		Loc=</usr/include/stdio.h:145:20>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:152:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:8>
+identifier 'remove'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:12>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:19>
+const 'const'		Loc=</usr/include/stdio.h:152:20>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:26>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:31>
+identifier '__filename'		Loc=</usr/include/stdio.h:152:32>
+r_paren ')'		Loc=</usr/include/stdio.h:152:42>
+__attribute '__attribute__'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('		Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'		Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'	 [LeadingSpace]	Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'		Loc=</usr/include/stdio.h:152:44 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'		Loc=</usr/include/stdio.h:152:51>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:154:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:8>
+identifier 'rename'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:12>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:19>
+const 'const'		Loc=</usr/include/stdio.h:154:20>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:26>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:31>
+identifier '__old'		Loc=</usr/include/stdio.h:154:32>
+comma ','		Loc=</usr/include/stdio.h:154:37>
+const 'const'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:39>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:45>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:50>
+identifier '__new'		Loc=</usr/include/stdio.h:154:51>
+r_paren ')'		Loc=</usr/include/stdio.h:154:56>
+__attribute '__attribute__'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('		Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'		Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'	 [LeadingSpace]	Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'		Loc=</usr/include/stdio.h:154:58 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'		Loc=</usr/include/stdio.h:154:65>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:158:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:8>
+identifier 'renameat'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:12>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:21>
+int 'int'		Loc=</usr/include/stdio.h:158:22>
+identifier '__oldfd'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:26>
+comma ','		Loc=</usr/include/stdio.h:158:33>
+const 'const'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:35>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:41>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:46>
+identifier '__old'		Loc=</usr/include/stdio.h:158:47>
+comma ','		Loc=</usr/include/stdio.h:158:52>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:54>
+identifier '__newfd'	 [LeadingSpace]	Loc=</usr/include/stdio.h:158:58>
+comma ','		Loc=</usr/include/stdio.h:158:65>
+const 'const'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/stdio.h:159:8>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:14>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:19>
+identifier '__new'		Loc=</usr/include/stdio.h:159:20>
+r_paren ')'		Loc=</usr/include/stdio.h:159:25>
+__attribute '__attribute__'	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('		Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'		Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'	 [LeadingSpace]	Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'		Loc=</usr/include/stdio.h:159:27 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'		Loc=</usr/include/stdio.h:159:34>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:178:1>
+int 'int'	 [LeadingSpace]	Loc=</usr/include/stdio.h:178:8>
+identifier 'fclose'	 [LeadingSpace]	Loc=</usr/include/stdio.h:178:12>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:178:19>
+identifier 'FILE'		Loc=</usr/include/stdio.h:178:20>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:178:25>
+identifier '__stream'		Loc=</usr/include/stdio.h:178:26>
+r_paren ')'		Loc=</usr/include/stdio.h:178:34>
+semi ';'		Loc=</usr/include/stdio.h:178:35>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:188:1>
+identifier 'FILE'	 [LeadingSpace]	Loc=</usr/include/stdio.h:188:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:188:13>
+identifier 'tmpfile'		Loc=</usr/include/stdio.h:188:14>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:188:22>
+void 'void'		Loc=</usr/include/stdio.h:188:23>
+r_paren ')'		Loc=</usr/include/stdio.h:188:27>
+__attribute '__attribute__'	 [StartOfLine] [LeadingSpace]	Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:31>>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:45>>
+l_paren '('		Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:46>>
+identifier '__malloc__'		Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:47>>
+r_paren ')'		Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:57>>
+r_paren ')'		Loc=</usr/include/stdio.h:189:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:58>>
+semi ';'	 [LeadingSpace]	Loc=</usr/include/stdio.h:189:51>
+extern 'extern'	 [StartOfLine]	Loc=</usr/include/stdio.h:205:1>
+char 'char'	 [LeadingSpace]	Loc=</usr/include/stdio.h:205:8>
+star '*'	 [LeadingSpace]	Loc=</usr/include/stdio.h:205:13>
+identifier 'tmpnam'		Loc=</usr/include/stdio.h:205:14>
+l_paren '('	 [LeadingSpace]	Loc=</usr/include/stdio.h:205:21>
+char 'char'		Loc=</usr/include/stdio.h:205:22>
+l_square '['		Loc=</usr/include/stdio.h:205:26>
+numeric_constant '20'		Loc=</usr/include/stdio.h:205:27 <Spelling=/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:25:18>>
+r_square ']'		Loc=</usr/include/stdio.h:205:35>
+r_paren ')'		Loc=</usr/include/stdio.h:205:36>
+__attribute '__attribute__'	 [LeadingSpace]	Loc=</usr/include/stdio.h:205:38 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+

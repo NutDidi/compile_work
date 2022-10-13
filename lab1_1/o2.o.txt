@@ -1,0 +1,410 @@
+
+o2.o：     文件格式 elf32-littlearm
+
+Contents of section .interp:
+ 0154 2f6c6962 2f6c642d 6c696e75 782d6172  /lib/ld-linux-ar
+ 0164 6d68662e 736f2e33 00                 mhf.so.3.       
+Contents of section .note.gnu.build-id:
+ 0170 04000000 14000000 03000000 474e5500  ............GNU.
+ 0180 cac09726 7285b994 42ba93e8 058da6d7  ...&r...B.......
+ 0190 44d9a768                             D..h            
+Contents of section .note.ABI-tag:
+ 0194 04000000 10000000 01000000 474e5500  ............GNU.
+ 01a4 00000000 03000000 02000000 00000000  ................
+Contents of section .gnu.hash:
+ 01b4 01000000 01000000 01000000 00000000  ................
+ 01c4 00000000 00000000                    ........        
+Contents of section .dynsym:
+ 01cc 00000000 00000000 00000000 00000000  ................
+ 01dc 00000000 7c040000 00000000 03000b00  ....|...........
+ 01ec 00000000 00100100 00000000 03001600  ................
+ 01fc 10000000 00000000 00000000 12000000  ................
+ 020c 01000000 00000000 00000000 22000000  ............"...
+ 021c 9e000000 00000000 00000000 20000000  ............ ...
+ 022c 48000000 00000000 00000000 12000000  H...............
+ 023c 4f000000 00000000 00000000 11000000  O...............
+ 024c 37000000 00000000 00000000 12000000  7...............
+ 025c ba000000 00000000 00000000 20000000  ............ ...
+ 026c 22000000 00000000 00000000 12000000  "...............
+ 027c c9000000 00000000 00000000 20000000  ............ ...
+ 028c 31000000 00000000 00000000 12000000  1...............
+Contents of section .dynstr:
+ 029c 005f5f63 78615f66 696e616c 697a6500  .__cxa_finalize.
+ 02ac 5f5f6c69 62635f73 74617274 5f6d6169  __libc_start_mai
+ 02bc 6e005f5f 69736f63 39395f73 63616e66  n.__isoc99_scanf
+ 02cc 0061626f 7274005f 5f737461 636b5f63  .abort.__stack_c
+ 02dc 686b5f66 61696c00 7072696e 7466005f  hk_fail.printf._
+ 02ec 5f737461 636b5f63 686b5f67 75617264  _stack_chk_guard
+ 02fc 006c6962 632e736f 2e36006c 642d6c69  .libc.so.6.ld-li
+ 030c 6e75782d 61726d68 662e736f 2e330047  nux-armhf.so.3.G
+ 031c 4c494243 5f322e34 00474c49 42435f32  LIBC_2.4.GLIBC_2
+ 032c 2e370047 4c494243 5f322e33 34005f49  .7.GLIBC_2.34._I
+ 033c 544d5f64 65726567 69737465 72544d43  TM_deregisterTMC
+ 034c 6c6f6e65 5461626c 65005f5f 676d6f6e  loneTable.__gmon
+ 035c 5f737461 72745f5f 005f4954 4d5f7265  _start__._ITM_re
+ 036c 67697374 6572544d 436c6f6e 65546162  gisterTMCloneTab
+ 037c 6c6500                               le.             
+Contents of section .gnu.version:
+ 0380 00000000 00000200 03000100 03000400  ................
+ 0390 03000100 05000100 0300               ..........      
+Contents of section .gnu.version_r:
+ 039c 01000100 6b000000 10000000 20000000  ....k....... ...
+ 03ac 1469690d 00000400 7f000000 00000000  .ii.............
+ 03bc 01000300 61000000 10000000 00000000  ....a...........
+ 03cc 1769690d 00000500 89000000 10000000  .ii.............
+ 03dc 1469690d 00000300 7f000000 10000000  .ii.............
+ 03ec b4919606 00000200 93000000 00000000  ................
+Contents of section .rel.dyn:
+ 03fc b80e0100 17000000 bc0e0100 17000000  ................
+ 040c f80f0100 17000000 04100100 17000000  ................
+ 041c e80f0100 15040000 ec0f0100 15050000  ................
+ 042c f00f0100 15070000 f40f0100 15090000  ................
+ 043c fc0f0100 150b0000                    ........        
+Contents of section .rel.plt:
+ 0444 cc0f0100 16030000 d00f0100 16040000  ................
+ 0454 d40f0100 16060000 d80f0100 16080000  ................
+ 0464 dc0f0100 16090000 e00f0100 160a0000  ................
+ 0474 e40f0100 160c0000                    ........        
+Contents of section .init:
+ 047c 08402de9 270000eb 0880bde8           .@-.'.......    
+Contents of section .plt:
+ 0488 04e02de5 04e09fe5 0ee08fe0 08f0bee5  ..-.............
+ 0498 280b0100 00c68fe2 10ca8ce2 28fbbce5  (...........(...
+ 04a8 00c68fe2 10ca8ce2 20fbbce5 00c68fe2  ........ .......
+ 04b8 10ca8ce2 18fbbce5 00c68fe2 10ca8ce2  ................
+ 04c8 10fbbce5 00c68fe2 10ca8ce2 08fbbce5  ................
+ 04d8 00c68fe2 10ca8ce2 00fbbce5 00c68fe2  ................
+ 04e8 10ca8ce2 f8fabce5                    ........        
+Contents of section .text:
+ 04f0 4ff0000b 4ff0000e 02bc6a46 04b401b4  O...O.....jF....
+ 0500 dff818a0 05a39a44 4ff00003 08b40448  .......DO......H
+ 0510 5af80000 fff7c2ef fff7e4ef a40a0100  Z...............
+ 0520 38000000 14309fe5 14209fe5 03308fe0  8....0... ...0..
+ 0530 022093e7 000052e3 1eff2f01 e2ffffea  . ....R.../.....
+ 0540 8c0a0100 34000000 0648074b 074a7844  ....4....H.K.JxD
+ 0550 7b447a44 834203d0 054bd358 03b11847  {DzD.B...K.X...G
+ 0560 704700bf b60a0100 b40a0100 6a0a0100  pG..........j...
+ 0570 2c000000 0848094b 7844094a 7b441b1a  ,....H.KxD.J{D..
+ 0580 7a44d90f 01eba301 491003d0 054bd358  zD......I....K.X
+ 0590 03b11847 704700bf 8c0a0100 880a0100  ...GpG..........
+ 05a0 3c0a0100 3c000000 08b50a4b 0a4a7b44  <...<......K.J{D
+ 05b0 7a441b78 6bb9094b d35823b1 084b7b44  zD.xk..K.X#..K{D
+ 05c0 1868fff7 72effff7 bfff064b 01227b44  .h..r......K."{D
+ 05d0 1a7008bd 560a0100 0c0a0100 28000000  .p..V.......(...
+ 05e0 420a0100 360a0100 c4e700bf 80b586b0  B...6...........
+ 05f0 00af244a 7a44244b d3581b68 7b614ff0  ..$JzD$K.X.h{aO.
+ 0600 00030023 7b600123 bb600123 fb603b46  ...#{`.#.`.#.`;F
+ 0610 19461e4b 7b441846 fff75eef 79681c4b  .F.K{D.F..^.yh.K
+ 0620 7b441846 fff746ef b9681a4b 7b441846  {D.F..F..h.K{D.F
+ 0630 fff740ef 10e0bb68 3b61ba68 7b681344  ..@....h;a.h{h.D
+ 0640 bb60b968 144b7b44 1846fff7 34ef3b69  .`.h.K{D.F..4.;i
+ 0650 7b60fb68 0133fb60 3b68fa68 9a42eadb  {`.h.3.`;h.h.B..
+ 0660 00230e49 7944084a 8a581168 7a695140  .#.IyD.J.X.hziQ@
+ 0670 4ff00002 01d0fff7 24ef1846 1837bd46  O.......$..F.7.F
+ 0680 80bd00bf c8090100 30000000 24010000  ........0...$...
+ 0690 1c010000 18010000 06010000 58090100  ............X...
+Contents of section .fini:
+ 06a0 08402de9 0880bde8                    .@-.....        
+Contents of section .rodata:
+ 06a8 01000200 3b000000 3e000000 0b000000  ....;...>.......
+ 06b8 3e000000 10000000 3e000000 25000000  >.......>...%...
+ 06c8 3e000000 33000000 3e000000 03000000  >...3...>.......
+ 06d8 3e000000 06000000 3e000000 14000000  >.......>.......
+ 06e8 3e000000 0e000000 3e000000 0d000000  >.......>.......
+ 06f8 3e000000 24000000 3e000000 12000000  >...$...>.......
+ 0708 3e000000 27000000 3e000000 02000000  >...'...>.......
+ 0718 3e000000 18000000 3e000000 09000000  >.......>.......
+ 0728 3e000000 0a000000 3e000000 00000000  >.......>.......
+ 0738 00000000 25640000 613d2564 0a000000  ....%d..a=%d....
+ 0748 623d2564 0a000000 25640a00 3b000000  b=%d....%d..;...
+ 0758 3e000000 0b000000 3e000000 10000000  >.......>.......
+ 0768 3e000000 25000000 3e000000 33000000  >...%...>...3...
+ 0778 3e000000 03000000 3e000000 06000000  >.......>.......
+ 0788 3e000000 14000000 3e000000 0e000000  >.......>.......
+ 0798 3e000000 0d000000 3e000000 24000000  >.......>...$...
+ 07a8 3e000000 12000000 3e000000 27000000  >.......>...'...
+ 07b8 3e000000 02000000 3e000000 18000000  >.......>.......
+ 07c8 3e000000 09000000 3e000000 0a000000  >.......>.......
+ 07d8 3e000000 00000000 00000000           >...........    
+Contents of section .ARM.exidx:
+ 07e4 0cfdff7f 01000000                    ........        
+Contents of section .eh_frame:
+ 07ec 00000000                             ....            
+Contents of section .init_array:
+ 10eb8 e9050000                             ....            
+Contents of section .fini_array:
+ 10ebc a9050000                             ....            
+Contents of section .dynamic:
+ 10ec0 01000000 61000000 01000000 6b000000  ....a.......k...
+ 10ed0 0c000000 7c040000 0d000000 a0060000  ....|...........
+ 10ee0 19000000 b80e0100 1b000000 04000000  ................
+ 10ef0 1a000000 bc0e0100 1c000000 04000000  ................
+ 10f00 f5feff6f b4010000 05000000 9c020000  ...o............
+ 10f10 06000000 cc010000 0a000000 e3000000  ................
+ 10f20 0b000000 10000000 15000000 00000000  ................
+ 10f30 03000000 c00f0100 02000000 38000000  ............8...
+ 10f40 14000000 11000000 17000000 44040000  ............D...
+ 10f50 11000000 fc030000 12000000 48000000  ............H...
+ 10f60 13000000 08000000 1e000000 08000000  ................
+ 10f70 fbffff6f 01000008 feffff6f 9c030000  ...o.......o....
+ 10f80 ffffff6f 02000000 f0ffff6f 80030000  ...o.......o....
+ 10f90 faffff6f 04000000 00000000 00000000  ...o............
+ 10fa0 00000000 00000000 00000000 00000000  ................
+ 10fb0 00000000 00000000 00000000 00000000  ................
+Contents of section .got:
+ 10fc0 c00e0100 00000000 00000000 88040000  ................
+ 10fd0 88040000 88040000 88040000 88040000  ................
+ 10fe0 88040000 88040000 00000000 00000000  ................
+ 10ff0 00000000 00000000 ed050000 00000000  ................
+Contents of section .data:
+ 11000 00000000 04100100                    ........        
+Contents of section .comment:
+ 0000 4743433a 20285562 756e7475 2031312e  GCC: (Ubuntu 11.
+ 0010 322e302d 31377562 756e7475 31292031  2.0-17ubuntu1) 1
+ 0020 312e322e 3000                        1.2.0.          
+Contents of section .ARM.attributes:
+ 0000 41320000 00616561 62690001 28000000  A2...aeabi..(...
+ 0010 05372d41 00060a07 41080109 020a0412  .7-A....A.......
+ 0020 04130114 01150117 03180119 011a021c  ................
+ 0030 012201                               .".             
+
+Disassembly of section .init:
+
+0000047c <_init>:
+ 47c:	e92d4008 	push	{r3, lr}
+ 480:	eb000027 	bl	524 <call_weak_fn>
+ 484:	e8bd8008 	pop	{r3, pc}
+
+Disassembly of section .plt:
+
+00000488 <.plt>:
+ 488:	e52de004 	push	{lr}		; (str lr, [sp, #-4]!)
+ 48c:	e59fe004 	ldr	lr, [pc, #4]	; 498 <.plt+0x10>
+ 490:	e08fe00e 	add	lr, pc, lr
+ 494:	e5bef008 	ldr	pc, [lr, #8]!
+ 498:	00010b28 	.word	0x00010b28
+
+0000049c <__libc_start_main@plt>:
+ 49c:	e28fc600 	add	ip, pc, #0, 12
+ 4a0:	e28cca10 	add	ip, ip, #16, 20	; 0x10000
+ 4a4:	e5bcfb28 	ldr	pc, [ip, #2856]!	; 0xb28
+
+000004a8 <__cxa_finalize@plt>:
+ 4a8:	e28fc600 	add	ip, pc, #0, 12
+ 4ac:	e28cca10 	add	ip, ip, #16, 20	; 0x10000
+ 4b0:	e5bcfb20 	ldr	pc, [ip, #2848]!	; 0xb20
+
+000004b4 <printf@plt>:
+ 4b4:	e28fc600 	add	ip, pc, #0, 12
+ 4b8:	e28cca10 	add	ip, ip, #16, 20	; 0x10000
+ 4bc:	e5bcfb18 	ldr	pc, [ip, #2840]!	; 0xb18
+
+000004c0 <__stack_chk_fail@plt>:
+ 4c0:	e28fc600 	add	ip, pc, #0, 12
+ 4c4:	e28cca10 	add	ip, ip, #16, 20	; 0x10000
+ 4c8:	e5bcfb10 	ldr	pc, [ip, #2832]!	; 0xb10
+
+000004cc <__gmon_start__@plt>:
+ 4cc:	e28fc600 	add	ip, pc, #0, 12
+ 4d0:	e28cca10 	add	ip, ip, #16, 20	; 0x10000
+ 4d4:	e5bcfb08 	ldr	pc, [ip, #2824]!	; 0xb08
+
+000004d8 <__isoc99_scanf@plt>:
+ 4d8:	e28fc600 	add	ip, pc, #0, 12
+ 4dc:	e28cca10 	add	ip, ip, #16, 20	; 0x10000
+ 4e0:	e5bcfb00 	ldr	pc, [ip, #2816]!	; 0xb00
+
+000004e4 <abort@plt>:
+ 4e4:	e28fc600 	add	ip, pc, #0, 12
+ 4e8:	e28cca10 	add	ip, ip, #16, 20	; 0x10000
+ 4ec:	e5bcfaf8 	ldr	pc, [ip, #2808]!	; 0xaf8
+
+Disassembly of section .text:
+
+000004f0 <_start>:
+ 4f0:	f04f 0b00 	mov.w	fp, #0
+ 4f4:	f04f 0e00 	mov.w	lr, #0
+ 4f8:	bc02      	pop	{r1}
+ 4fa:	466a      	mov	r2, sp
+ 4fc:	b404      	push	{r2}
+ 4fe:	b401      	push	{r0}
+ 500:	f8df a018 	ldr.w	sl, [pc, #24]	; 51c <_start+0x2c>
+ 504:	a305      	add	r3, pc, #20	; (adr r3, 51c <_start+0x2c>)
+ 506:	449a      	add	sl, r3
+ 508:	f04f 0300 	mov.w	r3, #0
+ 50c:	b408      	push	{r3}
+ 50e:	4804      	ldr	r0, [pc, #16]	; (520 <_start+0x30>)
+ 510:	f85a 0000 	ldr.w	r0, [sl, r0]
+ 514:	f7ff efc2 	blx	49c <__libc_start_main@plt>
+ 518:	f7ff efe4 	blx	4e4 <abort@plt>
+ 51c:	00010aa4 	.word	0x00010aa4
+ 520:	00000038 	.word	0x00000038
+
+00000524 <call_weak_fn>:
+ 524:	e59f3014 	ldr	r3, [pc, #20]	; 540 <call_weak_fn+0x1c>
+ 528:	e59f2014 	ldr	r2, [pc, #20]	; 544 <call_weak_fn+0x20>
+ 52c:	e08f3003 	add	r3, pc, r3
+ 530:	e7932002 	ldr	r2, [r3, r2]
+ 534:	e3520000 	cmp	r2, #0
+ 538:	012fff1e 	bxeq	lr
+ 53c:	eaffffe2 	b	4cc <__gmon_start__@plt>
+ 540:	00010a8c 	.word	0x00010a8c
+ 544:	00000034 	.word	0x00000034
+
+00000548 <deregister_tm_clones>:
+ 548:	4806      	ldr	r0, [pc, #24]	; (564 <deregister_tm_clones+0x1c>)
+ 54a:	4b07      	ldr	r3, [pc, #28]	; (568 <deregister_tm_clones+0x20>)
+ 54c:	4a07      	ldr	r2, [pc, #28]	; (56c <deregister_tm_clones+0x24>)
+ 54e:	4478      	add	r0, pc
+ 550:	447b      	add	r3, pc
+ 552:	447a      	add	r2, pc
+ 554:	4283      	cmp	r3, r0
+ 556:	d003      	beq.n	560 <deregister_tm_clones+0x18>
+ 558:	4b05      	ldr	r3, [pc, #20]	; (570 <deregister_tm_clones+0x28>)
+ 55a:	58d3      	ldr	r3, [r2, r3]
+ 55c:	b103      	cbz	r3, 560 <deregister_tm_clones+0x18>
+ 55e:	4718      	bx	r3
+ 560:	4770      	bx	lr
+ 562:	bf00      	nop
+ 564:	00010ab6 	.word	0x00010ab6
+ 568:	00010ab4 	.word	0x00010ab4
+ 56c:	00010a6a 	.word	0x00010a6a
+ 570:	0000002c 	.word	0x0000002c
+
+00000574 <register_tm_clones>:
+ 574:	4808      	ldr	r0, [pc, #32]	; (598 <register_tm_clones+0x24>)
+ 576:	4b09      	ldr	r3, [pc, #36]	; (59c <register_tm_clones+0x28>)
+ 578:	4478      	add	r0, pc
+ 57a:	4a09      	ldr	r2, [pc, #36]	; (5a0 <register_tm_clones+0x2c>)
+ 57c:	447b      	add	r3, pc
+ 57e:	1a1b      	subs	r3, r3, r0
+ 580:	447a      	add	r2, pc
+ 582:	0fd9      	lsrs	r1, r3, #31
+ 584:	eb01 01a3 	add.w	r1, r1, r3, asr #2
+ 588:	1049      	asrs	r1, r1, #1
+ 58a:	d003      	beq.n	594 <register_tm_clones+0x20>
+ 58c:	4b05      	ldr	r3, [pc, #20]	; (5a4 <register_tm_clones+0x30>)
+ 58e:	58d3      	ldr	r3, [r2, r3]
+ 590:	b103      	cbz	r3, 594 <register_tm_clones+0x20>
+ 592:	4718      	bx	r3
+ 594:	4770      	bx	lr
+ 596:	bf00      	nop
+ 598:	00010a8c 	.word	0x00010a8c
+ 59c:	00010a88 	.word	0x00010a88
+ 5a0:	00010a3c 	.word	0x00010a3c
+ 5a4:	0000003c 	.word	0x0000003c
+
+000005a8 <__do_global_dtors_aux>:
+ 5a8:	b508      	push	{r3, lr}
+ 5aa:	4b0a      	ldr	r3, [pc, #40]	; (5d4 <__do_global_dtors_aux+0x2c>)
+ 5ac:	4a0a      	ldr	r2, [pc, #40]	; (5d8 <__do_global_dtors_aux+0x30>)
+ 5ae:	447b      	add	r3, pc
+ 5b0:	447a      	add	r2, pc
+ 5b2:	781b      	ldrb	r3, [r3, #0]
+ 5b4:	b96b      	cbnz	r3, 5d2 <__do_global_dtors_aux+0x2a>
+ 5b6:	4b09      	ldr	r3, [pc, #36]	; (5dc <__do_global_dtors_aux+0x34>)
+ 5b8:	58d3      	ldr	r3, [r2, r3]
+ 5ba:	b123      	cbz	r3, 5c6 <__do_global_dtors_aux+0x1e>
+ 5bc:	4b08      	ldr	r3, [pc, #32]	; (5e0 <__do_global_dtors_aux+0x38>)
+ 5be:	447b      	add	r3, pc
+ 5c0:	6818      	ldr	r0, [r3, #0]
+ 5c2:	f7ff ef72 	blx	4a8 <__cxa_finalize@plt>
+ 5c6:	f7ff ffbf 	bl	548 <deregister_tm_clones>
+ 5ca:	4b06      	ldr	r3, [pc, #24]	; (5e4 <__do_global_dtors_aux+0x3c>)
+ 5cc:	2201      	movs	r2, #1
+ 5ce:	447b      	add	r3, pc
+ 5d0:	701a      	strb	r2, [r3, #0]
+ 5d2:	bd08      	pop	{r3, pc}
+ 5d4:	00010a56 	.word	0x00010a56
+ 5d8:	00010a0c 	.word	0x00010a0c
+ 5dc:	00000028 	.word	0x00000028
+ 5e0:	00010a42 	.word	0x00010a42
+ 5e4:	00010a36 	.word	0x00010a36
+
+000005e8 <frame_dummy>:
+ 5e8:	e7c4      	b.n	574 <register_tm_clones>
+ 5ea:	bf00      	nop
+
+000005ec <main>:
+ 5ec:	b580      	push	{r7, lr}
+ 5ee:	b086      	sub	sp, #24
+ 5f0:	af00      	add	r7, sp, #0
+ 5f2:	4a24      	ldr	r2, [pc, #144]	; (684 <main+0x98>)
+ 5f4:	447a      	add	r2, pc
+ 5f6:	4b24      	ldr	r3, [pc, #144]	; (688 <main+0x9c>)
+ 5f8:	58d3      	ldr	r3, [r2, r3]
+ 5fa:	681b      	ldr	r3, [r3, #0]
+ 5fc:	617b      	str	r3, [r7, #20]
+ 5fe:	f04f 0300 	mov.w	r3, #0
+ 602:	2300      	movs	r3, #0
+ 604:	607b      	str	r3, [r7, #4]
+ 606:	2301      	movs	r3, #1
+ 608:	60bb      	str	r3, [r7, #8]
+ 60a:	2301      	movs	r3, #1
+ 60c:	60fb      	str	r3, [r7, #12]
+ 60e:	463b      	mov	r3, r7
+ 610:	4619      	mov	r1, r3
+ 612:	4b1e      	ldr	r3, [pc, #120]	; (68c <main+0xa0>)
+ 614:	447b      	add	r3, pc
+ 616:	4618      	mov	r0, r3
+ 618:	f7ff ef5e 	blx	4d8 <__isoc99_scanf@plt>
+ 61c:	6879      	ldr	r1, [r7, #4]
+ 61e:	4b1c      	ldr	r3, [pc, #112]	; (690 <main+0xa4>)
+ 620:	447b      	add	r3, pc
+ 622:	4618      	mov	r0, r3
+ 624:	f7ff ef46 	blx	4b4 <printf@plt>
+ 628:	68b9      	ldr	r1, [r7, #8]
+ 62a:	4b1a      	ldr	r3, [pc, #104]	; (694 <main+0xa8>)
+ 62c:	447b      	add	r3, pc
+ 62e:	4618      	mov	r0, r3
+ 630:	f7ff ef40 	blx	4b4 <printf@plt>
+ 634:	e010      	b.n	658 <main+0x6c>
+ 636:	68bb      	ldr	r3, [r7, #8]
+ 638:	613b      	str	r3, [r7, #16]
+ 63a:	68ba      	ldr	r2, [r7, #8]
+ 63c:	687b      	ldr	r3, [r7, #4]
+ 63e:	4413      	add	r3, r2
+ 640:	60bb      	str	r3, [r7, #8]
+ 642:	68b9      	ldr	r1, [r7, #8]
+ 644:	4b14      	ldr	r3, [pc, #80]	; (698 <main+0xac>)
+ 646:	447b      	add	r3, pc
+ 648:	4618      	mov	r0, r3
+ 64a:	f7ff ef34 	blx	4b4 <printf@plt>
+ 64e:	693b      	ldr	r3, [r7, #16]
+ 650:	607b      	str	r3, [r7, #4]
+ 652:	68fb      	ldr	r3, [r7, #12]
+ 654:	3301      	adds	r3, #1
+ 656:	60fb      	str	r3, [r7, #12]
+ 658:	683b      	ldr	r3, [r7, #0]
+ 65a:	68fa      	ldr	r2, [r7, #12]
+ 65c:	429a      	cmp	r2, r3
+ 65e:	dbea      	blt.n	636 <main+0x4a>
+ 660:	2300      	movs	r3, #0
+ 662:	490e      	ldr	r1, [pc, #56]	; (69c <main+0xb0>)
+ 664:	4479      	add	r1, pc
+ 666:	4a08      	ldr	r2, [pc, #32]	; (688 <main+0x9c>)
+ 668:	588a      	ldr	r2, [r1, r2]
+ 66a:	6811      	ldr	r1, [r2, #0]
+ 66c:	697a      	ldr	r2, [r7, #20]
+ 66e:	4051      	eors	r1, r2
+ 670:	f04f 0200 	mov.w	r2, #0
+ 674:	d001      	beq.n	67a <main+0x8e>
+ 676:	f7ff ef24 	blx	4c0 <__stack_chk_fail@plt>
+ 67a:	4618      	mov	r0, r3
+ 67c:	3718      	adds	r7, #24
+ 67e:	46bd      	mov	sp, r7
+ 680:	bd80      	pop	{r7, pc}
+ 682:	bf00      	nop
+ 684:	000109c8 	.word	0x000109c8
+ 688:	00000030 	.word	0x00000030
+ 68c:	00000124 	.word	0x00000124
+ 690:	0000011c 	.word	0x0000011c
+ 694:	00000118 	.word	0x00000118
+ 698:	00000106 	.word	0x00000106
+ 69c:	00010958 	.word	0x00010958
+
+Disassembly of section .fini:
+
+000006a0 <_fini>:
+ 6a0:	e92d4008 	push	{r3, lr}
+ 6a4:	e8bd8008 	pop	{r3, pc}

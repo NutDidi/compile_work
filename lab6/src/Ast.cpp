@@ -58,19 +58,19 @@ Node::Node()
 }
 
 
-Id::Id(SymbolEntry *se) : ExprNode(se)
-{
+// Id::Id(SymbolEntry *se) : ExprNode(se)
+// {
 
-    if(se->getType()->isConst())
-    {
-        dst = new Operand(se);
-    }
-    else
-    {
-        SymbolEntry *temp = new TemporarySymbolEntry(se->getType(), SymbolTable::getLabel()); 
-        dst = new Operand(temp);
-    }
-}
+//     if(se->getType()->isConst())
+//     {
+//         dst = new Operand(se);
+//     }
+//     else
+//     {
+//         SymbolEntry *temp = new TemporarySymbolEntry(se->getType(), SymbolTable::getLabel()); 
+//         dst = new Operand(temp);
+//     }
+// }
 
 
 void Node::backPatch(std::vector<Instruction*> &list, BasicBlock*bb)
@@ -114,6 +114,7 @@ void Id::genCode()
 
     BasicBlock *bb = builder->getInsertBB();
     Operand *addr = dynamic_cast<IdentifierSymbolEntry*>(symbolEntry)->getAddr();
+    dst = new Operand(new TemporarySymbolEntry(dst->getType(), SymbolTable::getLabel()));
     new LoadInstruction(dst, addr, bb);
 }
 //yxy

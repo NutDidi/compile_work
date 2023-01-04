@@ -1,0 +1,32 @@
+/*
+int main()
+{
+    int a;
+    int b;
+    int min;
+    a = 1 + 2 + 3;
+    b = 2 + 3 + 4;
+    if (a < b)
+        min = a;
+    else
+        min = b;
+    return min;
+}
+*/
+const int a = 2;
+int b = 3;
+int why()
+{
+    return 1 + a;
+}
+int main()
+{
+    int min;
+    min = 1*2*3;
+    int max;
+    max = a + why();
+    if(a>=b)
+        return 0;
+    else 
+        return a;
+}
